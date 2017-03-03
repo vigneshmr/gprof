@@ -1,0 +1,8 @@
+FlameGraph
+.idea/
+*.pdf
+*.svg
+*.txt
+*.out
+*.test
+perf
